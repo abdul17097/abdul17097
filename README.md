@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://gemini.google.com/share/ffb549abe5cd" alt="Abdul Musavir Banner" width="100%" />
-</div>
-
 # Hi there! I'm Abdul Musavir 👋
 
 ### 🚀 Full-Stack SaaS Developer | Startup Solutions Architect
