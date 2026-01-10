@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abdul17097/abdul17097/main/banner.png" alt="Abdul Musavir Banner" width="100%" />
+  <img src="https://gemini.google.com/share/ffb549abe5cd" alt="Abdul Musavir Banner" width="100%" />
 </div>
 
 # Hi there! I'm Abdul Musavir 👋
