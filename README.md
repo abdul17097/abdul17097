@@ -10,6 +10,31 @@ I specialize in building high-performance, scalable **SaaS products** and helpin
 - 📫 Reach me via: [Your Email/LinkedIn Link]
 
 ---
+### 💼 How I Help Startups
+- **🚀 MVP Development:** Turning core ideas into functional products using the MERN stack.
+- **🛠 SaaS Scaling:** Optimizing platforms for performance, security, and user growth.
+- **🎨 Modern UI/UX:** Building sleek interfaces with Tailwind CSS and Shadcn/UI.
+- **⚙️ Backend Architecture:** Designing robust APIs and schemas (SQL/NoSQL).
+- **🔄 Tech Stack Migration:** Modernizing legacy codebases to Next.js or NestJS.
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL@GMAIL.COM" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="YOUR_PORTFOLIO_URL" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=ff8000" /></a>
+</p>
+
+---
+
+### 📊 My GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" width="48%" />
+</div>
+
+---
 
 ### 🛠 My Tech Stack
 
