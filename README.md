@@ -21,9 +21,9 @@ I specialize in building high-performance, scalable **SaaS products** and helpin
 
 ### 🤝 Connect with Me
 <p align="left">
-<a href="https://www.linkedin.com/in/abdul-musavir1/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:abdul17097@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://musavir-portfolio.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=ff8000" /></a>
+<a href="https://www.linkedin.com/in/abdul-musavir1/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:abdul17097@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://musavir-portfolio.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=ff8000" /></a>
 </p>
 
 ---
