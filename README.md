@@ -7,7 +7,7 @@ I specialize in building high-performance, scalable **SaaS products** and helpin
 - 🔭 I’m currently building scalable SaaS architectures.
 - 🌱 I’m currently deepening my expertise in **NestJS** and **Next.js** optimization.
 - ⚡ Fun fact: I believe a great UI (Shadcn + Tailwind) is just as important as a robust backend.
-- 📫 Reach me via: [Your Email/LinkedIn Link]
+- 📫 Reach me via: [abdul17097@gmail.cm/https://www.linkedin.com/in/abdul-musavir1/]
 
 ---
 ### 💼 How I Help Startups
@@ -25,14 +25,6 @@ I specialize in building high-performance, scalable **SaaS products** and helpin
 <a href="mailto:abdul17097@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://musavir-portfolio.netlify.app/" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=ff8000" /></a>
 </p>
-
----
-
-### 📊 My GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul17097&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul17097&layout=compact&theme=radical" width="48%" />
-</div>
 
 ---
 
@@ -59,10 +51,13 @@ I specialize in building high-performance, scalable **SaaS products** and helpin
 
 ### 📊 My GitHub Stats
 
-| Activity | Top Languages |
+| 🔥 Contribution Activity | 💻 Top Languages |
 | :--- | :--- |
-| ![Your Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical) |
+| ![Your Stats](https://github-readme-stats.vercel.app/api?username=abdul17097&show_icons=true&theme=radical&rank_icon=github&border_radius=10) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul17097&layout=compact&theme=radical&border_radius=10&hide=html,css) |
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul17097&theme=radical&border_radius=10" alt="GitHub Streak" />
+</p>
 ---
 
 ### 🤝 Let's Connect
