@@ -49,16 +49,5 @@ I specialize in building high-performance, scalable **SaaS products** and helpin
 
 ---
 
-### 📊 My GitHub Stats
-
-| 🔥 Contribution Activity | 💻 Top Languages |
-| :--- | :--- |
-| ![Your Stats](https://github-readme-stats.vercel.app/api?username=abdul17097&show_icons=true&theme=radical&rank_icon=github&border_radius=10) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul17097&layout=compact&theme=radical&border_radius=10&hide=html,css) |
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdul17097&theme=radical&border_radius=10" alt="GitHub Streak" />
-</p>
----
-
 ### 🤝 Let's Connect
 I'm always open to discussing new SaaS projects, startup ideas, or technical challenges. Feel free to reach out!
